@@ -189,7 +189,8 @@ Key components supporting Kubernetes-native deployment include:
 - BusinessWorks 5  
 - EMS  
 - Flogo  
-
+- more in the roadmap
+  
 This allows organizations to deploy integration workloads across:
 
 - on-premise Kubernetes clusters  
